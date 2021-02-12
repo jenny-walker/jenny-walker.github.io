@@ -9,7 +9,9 @@ body {
 
 header {
 	background-color:#D2B48C;
-	text-align:center;
+	line-height:150px;
+	background-image: url("logo.ico");
+  	background-repeat: no-repeat;
 }
 
 h1 {
