@@ -21,6 +21,8 @@ h1 {
 nav{
 	text-align:center;
 	font-weight:800;
+	font-size:1.5em;
+	padding-top:10px
 	
 }
 
@@ -29,8 +31,22 @@ footer{
 	font-size:.60em;
 	font-style:italic;
 	text-align:center;
+	padding-bottom:10px;
+	border-top: 5px;
+	border-top-color:#221811;
 }
 
+img{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#details {
+	padding-left:20%;
+	padding-right:20%;
+}
+	
+	
 #wrapper {
 	background-color:#FEF6C2;
 		min-width:900px;
