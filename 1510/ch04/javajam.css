@@ -1,0 +1,34 @@
+/* CSS Document */
+
+body {
+	background-color:#FCEBB6;
+	color:#221811;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+header {
+	background-color:#D2B48C;
+	text-align:center;
+}
+
+h1 {
+	line-height:200%;
+}
+
+nav{
+	text-align:center;
+	font-weight:800;
+	
+}
+
+footer{
+	background-color:#D2B48C;
+	font-size:.60em;
+	font-style:italic;
+	text-align:center;
+}
+
+#wrapper {width:80%;
+			margin-right:auto;
+			margin-left:auto;
+}
