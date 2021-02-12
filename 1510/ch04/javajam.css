@@ -22,7 +22,8 @@ nav{
 	text-align:center;
 	font-weight:800;
 	font-size:1.5em;
-	padding-top:10px
+	padding-top:10px;
+	a {text-decoration:none;}
 	
 }
 
