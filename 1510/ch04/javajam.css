@@ -19,8 +19,8 @@ main{
 
 
 h1 {
-	padding-top: 45px;
-  	padding-left: 220px;
+	padding-top:45px;
+  	padding-left:220px;
 	font-size:3em;
 }
 
@@ -39,7 +39,7 @@ footer{
 	font-style:italic;
 	text-align:center;
 	padding-bottom:10px;
-	border-top: 2px solid #221811;
+	border-top:2px solid #221811;
 }
 
 img{
@@ -65,5 +65,4 @@ h4{
 	background-color:#FEF6C2;
 		min-width:900px;
 		max-width:1280px;
-		box-shadow:6px 12px #FEF6C2;
 		}
