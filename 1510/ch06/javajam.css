@@ -10,10 +10,7 @@ main {
 	background-color:#FEF6C2;
 	padding-left:0;
 	padding-right:0;
-	
-	
-	
-}
+	}
 body {
 	background-color:#FCEBB6;
 	color:#221811;
@@ -24,9 +21,9 @@ body {
 header {
 	background-color:#D2B48C;
 	height:150px;
-	background-image:url("javajamlogo.jpg");
+	background-image:url("javajamlogo.JPG");
 	background-repeat:no-repeat;
-}
+	}
 
 h1 {
 	padding-top:45px;
@@ -37,11 +34,12 @@ h1 {
 nav{text-align:center;
 	font-weight:800;
 	font-size:1.5em;
-	padding-top:10px;
 	float:left;
-	width: 90px;
-	padding:10px;
+	width: 200px;
 	}
+
+nav ul{list-style-image: none;
+padding-left:0;}
 
 nav a{text-decoration:none;}
 
@@ -94,7 +92,6 @@ padding-bottom:2em;}
 		max-width:1280px;
 		box-shadow: 5px 5px 5px black;
 		}
-
 
 #heroroad {
 	background-image:url(heroroad.jpg);
