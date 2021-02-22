@@ -24,9 +24,8 @@ body {
 header {
 	background-color:#D2B48C;
 	height:150px;
-	background-image:url("logo.JPG");
+	background-image:url("javajamlogo.JPG");
 	background-repeat:no-repeat;
-	background-size:contain;
 }
 
 h1 {
