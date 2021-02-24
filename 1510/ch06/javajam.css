@@ -11,6 +11,28 @@ main {
 	padding-left:0;
 	padding-right:0;
 	}
+
+main h2 {padding-left:3em;
+padding-right:2em;}
+
+main h3 {padding-left:3em;
+padding-right:2em;}
+
+main h4 {padding-left:3em;
+padding-right:2em;}
+
+main p {padding-left:3em;
+padding-right:2em;}
+
+main div{padding-left:3em;
+padding-right:2em;}
+
+main ul {padding-left:3em;
+padding-right:2em;}
+
+main dl {padding-left:3em;
+padding-right:2em;}
+
 body {
 	background-color:#FCEBB6;
 	color:#221811;
@@ -37,17 +59,15 @@ nav{text-align:center;
 	float:left;
 	width: 200px;
 	}
+nav a{text-decoration:none;}
+
+nav a:link{color:#FEF6C2;}
+nav a:hover{color:#CC9933;}
+nav a:visted{color:#D2B48C;}
 
 nav ul{list-style-image: none;
 padding-left:0;}
 
-nav a{text-decoration:none;}
-
-nav a:link{color:#FEF6C2;}
-
-nav a:visted{color:#D2B48C;}
-
-nav a:hover{color:#CC9933;}
 
 footer{
 	background-color:#D2B48C;
