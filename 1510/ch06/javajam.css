@@ -2,6 +2,8 @@
 
 * {box sizing:border-box;}
 
+html {max-width:80%}
+
 header,nav,main,footer {display:block;}
 
 main {
@@ -43,7 +45,6 @@ body {
 	background-image:url("background.gif");
 	color:#221811;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
-	max-width:80%;
 	
 }
 
