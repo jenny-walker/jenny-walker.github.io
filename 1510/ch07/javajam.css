@@ -2,8 +2,6 @@
 
 * {box sizing:border-box;}
 
-html {max-width:80%}
-
 header,nav,main,footer {display:block;}
 
 main {
