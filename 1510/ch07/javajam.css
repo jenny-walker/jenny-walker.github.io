@@ -1,0 +1,136 @@
+/* CSS Document */
+
+* {box sizing:border-box;}
+
+html {max-width:80%}
+
+header,nav,main,footer {display:block;}
+
+main {
+	margin-left:200px;
+	padding-top:0px;
+	background-color:#FEF6C2;
+	padding-left:0;
+	padding-right:0;
+	}
+
+main h2 {padding-left:3em;
+padding-right:2em;}
+
+main h3 {padding-left:3em;
+padding-right:2em;}
+
+main h4 {padding-left:3em;
+padding-right:2em;}
+
+main p {padding-left:3em;
+padding-right:2em;}
+
+main div{padding-left:3em;
+padding-right:2em;}
+
+main ul {padding-left:3em;
+padding-right:2em;}
+
+main dl {padding-left:3em;
+padding-right:2em;
+display: block;
+   margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+padding-bottom: 3em}
+
+body {
+	background-image:url("background.gif");
+	color:#221811;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+header {
+	background-color:#D2B48C;
+	height:150px;
+	background-image:url("javajamlogo.jpg");
+	background-repeat:no-repeat;
+	}
+
+h1 {
+	padding-top:45px;
+  	padding-left:220px;
+	font-size:3em;
+}
+
+nav{text-align:center;
+	font-weight:800;
+	font-size:1.5em;
+	float:left;
+	width: 200px;
+	}
+nav a{text-decoration:none;}
+
+nav a:link{color:#FEF6C2;}
+nav a:visted{color:#D2B48C;}
+nav a:hover{color:#CC9933;}
+nav a:active{color:#D2B48C;}
+
+nav ul{list-style-image: none;
+padding-left:0;}
+
+
+footer{
+	background-color:#D2B48C;
+	font-size:.60em;
+	font-style:italic;
+	text-align:center;
+	padding-bottom:10px;
+	border-top:2px solid #221811;
+	
+}
+
+img{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+h4{
+	text-transform:uppercase;
+	border-bottom: solid;
+	font-size:1.2em;
+	padding-left:.5em;
+	padding-bottom:.0em;
+	background-color:#D2B48C;
+	clear: left;
+	
+}
+
+.floatleft{ float: left;
+padding-right: 2em;
+padding-bottom:2em;}
+
+.details {
+	padding-left:20%;
+	padding-right:20%;
+	overflow:auto;
+}
+	
+	
+#wrapper {
+	background-color:#231814;
+		min-width:900px;
+		max-width:1280px;
+		box-shadow: 5px 5px 5px black;
+		}
+
+#heroroad {
+	background-image:url(heroroad.jpg);
+	height: 250px;
+	background-size: 100%;}
+
+#heromugs {background-size:100%;
+	height: 250px;
+background-image:url(heromugs.jpg);}
+
+#heroguitar {background-size:100%;
+	height: 250px;
+background-image:url(heroguitar.jpg);}
