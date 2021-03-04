@@ -45,8 +45,6 @@ body {
 	background-image:url("background.gif");
 	color:#221811;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
-	width:800px;
-	margin:0 auto;
 	
 }
 
@@ -69,6 +67,7 @@ nav{text-align:center;
 	float:left;
 	width: 200px;
 	}
+
 nav a{text-decoration:none;}
 
 nav li{list-style-type: none;
