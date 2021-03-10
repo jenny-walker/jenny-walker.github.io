@@ -144,10 +144,10 @@ table {
 	padding-bottom: 5px;
 	}
 
-table:nth-of-type(2n) {
+tr:nth-of-type(2n) {
 background-color: #FEF6C2}
 
-table:nth-of-type(2n+1) {
+tr:nth-of-type(2n+1) {
 	background-color: #D2B48E;}
 
 td, th {padding: 10px;}
