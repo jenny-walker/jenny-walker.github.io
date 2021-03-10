@@ -74,7 +74,6 @@ nav li{list-style-type: none;
 nav a:link{color:#FEF6C2;}
 nav a:visted{color:#D2B48C;}
 nav a:hover{color:#CC9933;}
-nav a:active{color:#D2B48C;}
 
 footer{
 	background-color:#D2B48C;
@@ -141,7 +140,7 @@ table {
 	border-spacing: 0;
 	width: 90%;
 	margin: 0 auto;
-	padding-bottom: 5px;
+	padding-bottom: 10px;
 	}
 
 tr:nth-of-type(2n) {
