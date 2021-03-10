@@ -140,9 +140,11 @@ h4{
 table {
 	border-spacing: 0;
 	width: 90%;
-	margin: auto;
-	background-color: #FEF6C2;
+	margin: 10 auto;
 	}
+
+table:nth-of-type(2n) {
+background-color: #FEF6C2}
 
 table:nth-of-type(2n+1) {
 	background-color: #D2B48E;}
