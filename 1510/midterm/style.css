@@ -51,6 +51,7 @@ header {
 	height:150px;
 	background-image:url("javajamlogo.jpg");
 	background-repeat:no-repeat;
+	border-bottom:2px solid #221811
 	}
 
 h1 {
