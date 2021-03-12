@@ -253,10 +253,8 @@ td, th {padding: 10px;}
 	}
 	
 	.details {
-	display: block;
- 	 margin-left: auto;
- 	 margin-right: auto;
- 	 width: 50%;}
+	padding-left: 0;
+	padding-right:0;}
 	
 	#herohome {
 	background-image:none;
