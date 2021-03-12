@@ -102,13 +102,8 @@ h4{
 	
 }
 
-.floatleft{ float: left;
-	padding-right: 2em;
-	padding-bottom:2em;}
-
 .details {
-	padding-right:20%;
-	overflow:auto;
+	margin: 0 auto;
 }
 
 #mobile {display:none;}
