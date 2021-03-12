@@ -103,8 +103,10 @@ h4{
 }
 
 .details {
-	margin: 0 auto;
-}
+	display: block;
+	  margin-left: auto;
+ 	 margin-right: auto;
+	  width: 50%;}
 
 #mobile {display:none;}
 	
@@ -246,8 +248,10 @@ td, th {padding: 10px;}
 	}
 	
 	.details {
-	padding-left: 0;
-	padding-right:0;}
+	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 50%;}
 	
 	#herohome {
 	background-image:none;
