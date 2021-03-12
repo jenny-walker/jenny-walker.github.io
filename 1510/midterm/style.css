@@ -47,7 +47,7 @@ body {
 }
 
 header {
-	background-color:#BFD28B;
+	background-color:#60A870;
 	height:150px;
 	background-image:url("javajamlogo.jpg");
 	background-repeat:no-repeat;
@@ -76,7 +76,7 @@ nav a:visted{color:#D2B48C;}
 nav a:hover{color:#CC9933;}
 
 footer{
-	background-color:#BFD28B;
+	background-color:#60A870;
 	font-size:.60em;
 	font-style:italic;
 	text-align:center;
@@ -140,7 +140,7 @@ table {
 	}
 
 tr:nth-of-type(2n) {
-background-color: #D0FEC2}
+background-color: #60A870}
 
 tr:nth-of-type(2n+1) {
 	background-color: #BFD28B;}
