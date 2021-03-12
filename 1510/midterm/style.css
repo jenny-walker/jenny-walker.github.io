@@ -7,7 +7,7 @@ header,nav,main,footer {display:block;}
 main {
 	margin-left:200px;
 	padding-top:0px;
-	background-color:#FEF6C2;
+	background-color:#D0FEC2;
 	padding-left:0;
 	padding-right:0;
 	}
@@ -47,7 +47,7 @@ body {
 }
 
 header {
-	background-color:#D2B48C;
+	background-color:#BFD28B;
 	height:150px;
 	background-image:url("javajamlogo.jpg");
 	background-repeat:no-repeat;
@@ -76,7 +76,7 @@ nav a:visted{color:#D2B48C;}
 nav a:hover{color:#CC9933;}
 
 footer{
-	background-color:#D2B48C;
+	background-color:#BFD28B;
 	font-size:.60em;
 	font-style:italic;
 	text-align:center;
@@ -140,10 +140,10 @@ table {
 	}
 
 tr:nth-of-type(2n) {
-background-color: #FEF6C2}
+background-color: #D0FEC2}
 
 tr:nth-of-type(2n+1) {
-	background-color: #D2B48E;}
+	background-color: #BFD28B;}
 
 td, th {padding: 10px;}
 
@@ -185,16 +185,13 @@ td, th {padding: 10px;}
 	nav ul {padding:0;
 	margin: 0;}
 	
-	#heroroad {
+	#herohome {
 	margin: 0;
 	padding: 0;}
 
-	#heromugs {margin: 0;
+	#herofaq {margin: 0;
 	padding: 0;}
 
-	#heroguitar {margin: 0;
-	padding: 0;}
-	
 	main {margin:0;
 	font-size: 90%;}
 	
@@ -236,15 +233,13 @@ td, th {padding: 10px;}
 	padding-left: 0;
 	padding-right:0;}
 	
-	#heroroad {
+	#herohome {
 	background-image:none;
 	height: auto;}
 
-	#heromugs {background-image:none;
+	#herofaq {background-image:none;
 	height: auto;}
 
-	#heroguitar {background-image:none;
-	height: auto;}
 	
 	.floatleft {
 	padding-left: 0.5em;
