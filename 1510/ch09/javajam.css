@@ -271,7 +271,7 @@ td, th {padding: 10px;}
 	height: 250px;
 	background-image:url(herojobs.jpg);}
 
-input[type=text] {margin-bottom: 1em;
+input{margin-bottom: 1em;
 display: block;}
 
 textarea {margin-bottom: 1em;
