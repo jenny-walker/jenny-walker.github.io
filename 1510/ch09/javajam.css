@@ -199,6 +199,9 @@ td, th {padding: 10px;}
 	#heroguitar {margin: 0;
 	padding: 0;}
 	
+	#herojobs {margin: 0;
+	padding: 0;}
+	
 	main {margin:0;
 	font-size: 90%;}
 	
@@ -250,6 +253,9 @@ td, th {padding: 10px;}
 	#heroguitar {background-image:none;
 	height: auto;}
 	
+	#herojobs {background-image:none;
+	height: auto;}
+	
 	.floatleft {
 	padding-left: 0.5em;
 	padding-right: 0.5em;}
@@ -258,3 +264,24 @@ td, th {padding: 10px;}
 	#desktop {display: none;}
 	
 }
+
+#mySubmit {margin-left: 9.5em;}
+
+#herojobs {background-size:100%;
+	height: 250px;
+	background-image:url(herojobs.jpg);}
+
+input[type=text] {margin-bottom: 1em;
+display: block;}
+
+textarea {margin-bottom: 1em;
+display:block;}
+
+label {display:block;
+	float: left;
+	width: 8em;
+	padding-right: 1em;
+	text-align: right;
+	}
+
+form {padding: 2em;}
