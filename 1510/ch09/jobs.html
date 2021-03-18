@@ -22,20 +22,15 @@
 		<div id = "herojobs"></div>
 		<h2>Jobs at Java Jam</h2>
     <p>Want to work at Java Jam? Fill out the form below to start your application.</p>
-    <table>
-			<tr>
-				<th>Just Java</strong></th>
-				<td>Regular house blend, decaffeinated coffee, or flavor of the day.<br>
-					Endless Cup $3.00</td> </tr>
-			<tr>
-				<th>Cafe au Lait</strong></th>
-				<td>House blended coffee infused into a smooth, steamed milk.<br>
-				Single $3.00 Double $4.00</td> </tr>
-			<tr>
-				<th>Iced Cappuccino</strong></th>
-				<td>Sweetened espresso blended with icy-cold milk and served in a chilled glass.<br>
-				Single $4.75 Double $6.00</td> </tr>
-		</table></main>
+    <form action="http://webdevbasics.net/scripts/javajam8.php" method="post">
+	     <label for="name">Name:</label>
+	   <input type="text" id="name" name="name">
+	  <label for="email">Email:</label>
+	<input type="text" id="email" name="email">
+	    	  <label for="experience">Experience:</label>
+	    <textarea id="experience" name="experience" rows="2" cols="20"></textarea>
+	    <input type="submit" value="Apply Now"> 
+	    	</form></main>
 		<footer>
 		Copyright &copy; 2021 JavaJam Coffee House<br>
 			<a href="mailto:jsycamo7362@student.gwinnetttech.edu">jsycamo7362@student.gwinnetttech.edu</a>
