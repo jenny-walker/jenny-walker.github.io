@@ -43,8 +43,7 @@ body {
 	background-image:url("background.gif");
 	color:#221811;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
-	
-}
+	}
 
 header {
 	background-color:#D2B48C;
@@ -98,7 +97,6 @@ h4{
 	padding-bottom:.0em;
 	background-color:#D2B48C;
 	clear: left;
-	
 }
 
 .floatleft{ float: left;
@@ -285,3 +283,6 @@ label {display:block;
 	}
 
 form {padding: 2em;}
+
+audio {display:block;
+	margin-top: 1em;}
