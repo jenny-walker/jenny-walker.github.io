@@ -151,6 +151,10 @@ h4{
 	height: 250px;
 	background-image:url("herogear.png");}
 
+#herovid {background-size:100%;
+	height: 250px;
+	background-image:url("composting-video.jpeg");}
+
 table {
 	border-spacing: 0;
 	width: 90%;
@@ -256,6 +260,9 @@ form {padding: 2em;}
 	
 	#herogear {margin: 0;
 	padding: 0;}
+	
+	#herovid {margin: 0;
+	padding: 0;}
 
 	main {margin:0;
 	font-size: 90%;}
@@ -324,6 +331,10 @@ form {padding: 2em;}
 	height: auto;}
 	
 	#herogear {
+	background-image:none;
+	height: auto;}
+	
+	#herovid {
 	background-image:none;
 	height: auto;}
 	
