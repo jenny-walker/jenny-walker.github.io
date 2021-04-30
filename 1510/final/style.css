@@ -191,6 +191,9 @@ label {display:block;
 
 form {padding: 2em;}
 
+audio {display:block;
+	margin-top: 1em;}
+
 .item {
 	background-color: #FAF9F7;
 	margin-top: 2em;
@@ -201,6 +204,7 @@ form {padding: 2em;}
 	padding: 1em;
 	overflow: auto;
 }
+
 
 @media only screen and (max-width: 1024px) {
 	body {
