@@ -158,6 +158,23 @@ tr:nth-of-type(2n+1) {
 
 td, th {padding: 10px;}
 
+#mySubmit {margin-left: 9.5em;}
+
+input{margin-bottom: 1em;
+display: block;}
+
+textarea {margin-bottom: 1em;
+display:block;}
+
+label {display:block;
+	float: left;
+	width: 8em;
+	padding-right: 1em;
+	text-align: right;
+	}
+
+form {padding: 2em;}
+
 @media only screen and (max-width: 1024px) {
 	body {
 		margin:0;
