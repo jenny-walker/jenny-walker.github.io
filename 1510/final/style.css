@@ -235,6 +235,9 @@ form {padding: 2em;}
 	
 	#heromanual {margin: 0;
 	padding: 0;}
+	
+	#herointernship {margin: 0;
+	padding: 0;}
 
 	main {margin:0;
 	font-size: 90%;}
@@ -295,6 +298,10 @@ form {padding: 2em;}
 	height: auto;}
 	
 	#heromanual {
+	background-image:none;
+	height: auto;}
+	
+	#herointernship {
 	background-image:none;
 	height: auto;}
 	
