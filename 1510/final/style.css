@@ -183,6 +183,17 @@ label {display:block;
 
 form {padding: 2em;}
 
+.item {
+	background-color: #FAF9F7;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-right: 3em;
+	margin-left: 3em;
+	width: 80%;
+	padding: 1em;
+	overflow: auto;
+}
+
 @media only screen and (max-width: 1024px) {
 	body {
 		margin:0;
